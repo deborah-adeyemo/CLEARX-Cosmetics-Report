@@ -1,4 +1,4 @@
-# CLEARX-Cosmetics
+# CLEARX-Cosmetics Analysis 
 
 # Project Background
 CLEARX Cosmetics is a growing cosmetics company that operates across multiple product categories, including makeup, skincare, haircare, and fragrances. The company has been active in the beauty industry for several years, selling directly to consumers through both online and in-store channels. The business model revolves around offering affordable beauty products to customers across different age groups and economic conditions, with particular attention to rural, suburban, and urban markets.
