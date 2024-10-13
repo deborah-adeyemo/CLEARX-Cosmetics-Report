@@ -36,6 +36,8 @@ The overall revenue for CLEARX Cosmetics for the year 2021-2022 was ₦32,089,76
 
 The company also witnessed strong geographical sales in rural and suburban areas, with an almost equal split in revenue between rural (₦1,255,808,729) and suburban (₦1,248,920,672) locations.
 
+![Image alt](
+
 
 
 
