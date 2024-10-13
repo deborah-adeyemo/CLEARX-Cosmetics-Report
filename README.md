@@ -24,8 +24,6 @@ The company's main database structure consists of several tables, with a total r
 - **Table 3:** Product details, including product category and prices.
 - **Table 4:** Competition and economic condition data.
 
-[Entity Relationship Diagram here]
-
 
 
 # Executive Summary
@@ -36,7 +34,7 @@ The overall revenue for CLEARX Cosmetics for the year 2021-2022 was ₦32,089,76
 
 The company also witnessed strong geographical sales in rural and suburban areas, with an almost equal split in revenue between rural (₦1,255,808,729) and suburban (₦1,248,920,672) locations.
 
-![Image alt](
+![Image alt](https://github.com/deborah-adeyemo/CLEARX-Cosmetics-Report/blob/baad04f147c1fde7c556ecc890c6b3d63e97556d/CLEARX%20Cosmetics%20Excel%20Dashboard.png)
 
 
 
