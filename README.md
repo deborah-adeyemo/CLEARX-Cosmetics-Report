@@ -3,7 +3,7 @@
 # Project Background
 CLEARX Cosmetics is a growing cosmetics company that operates across multiple product categories, including makeup, skincare, haircare, and fragrances. The company has been active in the beauty industry for several years, selling directly to consumers through both online and in-store channels. The business model revolves around offering affordable beauty products to customers across different age groups and economic conditions, with particular attention to rural, suburban, and urban markets.
 
-The key business metrics from the year 2021-2022 show the company's total revenue was ₦32,089,767, with 749,883 units sold. The profit margin across product categories was calculated to be ₦0.69, resulting in a total profit of ₦4,396,673.
+The key business metrics from the year 2021-2022 show the company's total revenue was ₦32,089,767, with 749,883 units sold. The profit margin across product categories was calculated to be 0.69, resulting in a total profit of ₦4,396,673.
 
 Insights and recommendations are provided on the following key areas:
 
