@@ -8,10 +8,10 @@ The key business metrics from the year 2021-2022 show the company's total revenu
 Insights and recommendations are provided on the following key areas:
 
 
-- **Sales performance by product category:** 
-- **Customer demographics (age, gender):** 
-- **Geographical sales trends (rural, urban, suburban):** 
-- **Economic and competition conditions:** 
+- **Sales performance by product category** 
+- **Customer demographics (age, gender)** 
+- **Geographical sales trends (rural, urban, suburban)** 
+- **Economic and competition conditions** 
 
 
 
