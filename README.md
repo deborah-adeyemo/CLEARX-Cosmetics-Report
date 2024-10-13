@@ -1,34 +1,28 @@
 # CLEARX-Cosmetics
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+CLEARX Cosmetics is a growing cosmetics company that operates across multiple product categories, including makeup, skincare, haircare, and fragrances. The company has been active in the beauty industry for several years, selling directly to consumers through both online and in-store channels. The business model revolves around offering affordable beauty products to customers across different age groups and economic conditions, with particular attention to rural, suburban, and urban markets.
+
+The key business metrics from the year 2021-2022 show the company's total revenue was ₦32,089,767, with 749,883 units sold. The profit margin across product categories was calculated to be ₦0.69, resulting in a total profit of ₦4,396,673.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+- **Sales performance by product category:** 
+- **Customer demographics (age, gender):** 
+- **Geographical sales trends (rural, urban, suburban):** 
+- **Economic and competition conditions:** 
 
 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The company's main database structure consists of several tables, with a total row count of X records. The tables include sales transactions, customer information, product categories, and locations. 
+
+- **Table 1:** Sales transactions, including revenue and units sold by product.
+- **Table 2:** Customer demographics, such as age, gender, and location.
+- **Table 3:** Product details, including product category and prices.
+- **Table 4:** Competition and economic condition data.
 
 [Entity Relationship Diagram here]
 
@@ -38,79 +32,74 @@ The companies main database structure as seen below consists of four tables: tab
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+The overall revenue for CLEARX Cosmetics for the year 2021-2022 was ₦32,089,767, with a total profit of ₦4,396,673. The top-selling product categories include Makeup (₦6,641,096), Accessories (₦6,434,772), and Fragrances (₦6,415,067). Most customers fall into the age range of 28-38, with a strong female consumer base contributing significantly to sales.
+
+The company also witnessed strong geographical sales in rural and suburban areas, with an almost equal split in revenue between rural (₦1,255,808,729) and suburban (₦1,248,920,672) locations.
+
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
 # Insights Deep Dive
-### Category 1:
+### Category 1:Sales by Product Category
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 1.** Makeup led sales with total revenue of ₦6,641,096 and 150,113 units sold.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** Fragrances closely followed with ₦6,415,067 in revenue and 150,064 units sold.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** Skincare products contributed ₦6,369,708 in revenue and saw 148,783 units sold.
+ 
+* **Main insight 4.** Across all categories, the average profit margin remained consistent, showing a strong business model.
+
+
+### Category 2:Customer Demographics
+
+* **Main insight 1.** The largest age group of customers is 28-38, contributing 172,223 units in total sales.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 1]
-
-
-### Category 2:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** The next highest contributors were customers aged 18-27 (156,158 units) and 39-48 (156,349 units).
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** Gender-based sales show that females brought in ₦78,427 in revenue, far surpassing male customers (₦16,077,037).
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4.** Purchase frequency data suggests females have a higher frequency of repeat purchases.
+
+
+### Category 3:Geographical Trends
+
+* **Main insight 1.** Rural areas generated the most revenue (₦1,255,808,729), followed closely by suburban areas (₦1,248,920,672).
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 2]
-
-
-### Category 3:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** The city contributed the lowest revenue (₦1,246,336,789), but still represented a significant portion of total sales.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** Across all locations, the sale of haircare and skincare products remained consistent in volume.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4.** Marketing efforts should focus more on rural and suburban areas to maintain and further improve revenue growth.
+
+
+
+### Category 4:Economic and Competitive Conditions
+
+* **Main insight 1.** Sales were strongest when competition was considered "Good" in the market, regardless of economic conditions.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.**  Poor economic conditions did not significantly reduce sales, indicating that beauty products are a priority for many consumers.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** The "Fair" competition level showed the lowest sales, which suggests a balance of competition keeps the market active.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
+* **Main insight 4.**  Marketing strategies should target high-competition areas more aggressively.
 
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we recommend the Stakeholders to consider the following actions:
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Increase marketing efforts** in rural and suburban areas to capitalize on the high revenue potential.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Target the age group of 28-38** for future product launches, as they have shown the highest interest and purchase frequency.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Enhance product offerings** in makeup and fragrance categories, which contribute the largest portion of the company's revenue.**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Focus on female customers, given their significant contribution to revenue, and consider offering loyalty programs or targeted marketing campaigns for repeat customers**
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Monitor competition closely** and adjust strategies in "Good" competition zones to maintain market share.**
   
 
 
@@ -118,8 +107,8 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* Assumption 1 Missing data on economic conditions was assumed to follow the overall trend and was filled in accordingly
   
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+* Assumption 1 Some competition data was incomplete, and estimations were made using historical data from previous years.
   
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Assumption 1 Customer demographic data for certain age groups was incomplete; estimations were based on similar age groups with known data points.
